@@ -1,5 +1,19 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    
+    background-color:darkblue;    
+}
+
+.text{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
 }
